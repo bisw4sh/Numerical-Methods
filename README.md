@@ -1,0 +1,1 @@
+`This repo has all the problems in Numerical Methods subject of Software Engineering course of Pokhara University mapped to GO Programming Language algorithm.`
